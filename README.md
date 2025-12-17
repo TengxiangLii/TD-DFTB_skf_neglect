@@ -2,8 +2,8 @@
 
 ## Author: Tengxiang Li, Sergei Manzhos
 
-Here is the supplementary data for our paper: A Study of Applicability of Density Functional Tight Binding – Molecular Mechanics Approach for Optical Properties.  
-Including the model structures and DFTB+ parameters (zero-content skf files) used in the paper.
+This is the supplementary data for the article "A Study of Applicability of Density Functional Tight Binding – Molecular Mechanics Approach for Optical Properties".  
+Included are the structures of the dye molecule optimized at PBE and B3LYP levels of theory (files c1_pbe_final.xyz, c1_b3lyp_final.xyz) and the dye-TiO2 nanopartcile complex optimized at these levels of theory, as well as DFTB+ -readable parameter files with zeroed-out electronic parameters.
 
 
 ```
