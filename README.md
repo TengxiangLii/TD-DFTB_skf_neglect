@@ -3,7 +3,7 @@
 ## Author: Tengxiang Li, Sergei Manzhos
 
 This is the supplementary data for the article "A Study of Applicability of Density Functional Tight Binding – Molecular Mechanics Approach for Optical Properties".  
-Included are the structures of the dye molecule optimized at PBE and B3LYP levels of theory (files c1_pbe_final.xyz, c1_b3lyp_final.xyz) and the dye-TiO2 nanopartcile complex optimized at these levels of theory (np_c1_pbe.xyz, np_c1_b3lyp.xyz), as well as DFTB+ -readable parameter files with zeroed-out electronic parameters ( .skf files).
+Included are the structures of the dye molecule optimized at PBE and B3LYP levels of theory (files c1_pbe_final.xyz, c1_b3lyp_final.xyz) and the dye-TiO2 nanopartcile complex optimized at these levels of theory (np_c1_pbe.xyz, np_c1_b3lyp.xyz) in /struc folder, as well as DFTB+ -readable parameter files with zeroed-out electronic parameters ( .skf files in /skf folder).
 
 
 ```
