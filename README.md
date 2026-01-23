@@ -7,6 +7,7 @@ Included are the structures of the dye molecule optimized at PBE and B3LYP level
 
 *Update*  
 Strutures of the Isoindigo molecule, Si nanoparticle (H terminated), and N,P-doped Si nanoparticle are added in ./struc folder. DFTB+ readable parameters files for new added model are also addin in ./skf folder.
+The skf files were made from the corresponding tiorg-0-1 (or matsci) file by replacing interatomic interaction parameters with zeros.
 
 
 ```
